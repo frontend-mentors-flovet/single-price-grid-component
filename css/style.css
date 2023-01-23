@@ -22,7 +22,7 @@
 body {
   font-size: 16px;
   font-family: "Karla", sans-serif;
-  color: var(text) !important;
+  color: var(--text);
   scroll-behavior: smooth;
   background-color: var(--light-grey);
   display: flex;
